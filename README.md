@@ -9,17 +9,17 @@
 
 We have focused particularly on the region of Morocco, for which we were able to obtain data from multiple barometers' websites:
 
-[WVS Wave 7](https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp)
-[Afrobarometer](https://www.afrobarometer.org/survey-resource/morocco-round-9-data-2023/)
-[Arabbarometer wave 7](https://www.arabbarometer.org/survey-data/data-downloads/)
+- [WVS Wave 7](https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp)
+- [Afrobarometer](https://www.afrobarometer.org/survey-resource/morocco-round-9-data-2023/)
+- [Arabbarometer wave 7](https://www.arabbarometer.org/survey-data/data-downloads/)
 
 After running the python scripts the following five tables are populated with data and metadata from the source files:
 
-Dimension_value_morocco
-survey_questions_morocco
-response_values_morocco
-scenario_qids
-Scenarios
+- Dimension_value_morocco
+- survey_questions_morocco
+- response_values_morocco
+- scenario_qids
+- Scenarios
 
 ## Running the code files
 
